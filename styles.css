@@ -44,3 +44,8 @@ body {
     background-color: red;
     opacity: 0.8;
 }
+footer{
+    padding: 20px;
+    text-align: center;
+    color: #FFF;
+}
